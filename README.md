@@ -4,3 +4,7 @@ Hi, I'm a BTech CSE student,
 My Name is Tushar Gorai
 i am learning Python and building projects. 
 "Currently learning from Code with Harry"
+#Skills
+-Python
+-Git
+-Html Basics
